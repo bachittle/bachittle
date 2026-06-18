@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 Journey Template Gist
-https://gist.github.com/bachittle/33ba059a1594cc17a268ff8021443cd9
-
+https://gist.githubusercontent.com/bachittle/33ba059a1594cc17a268ff8021443cd9/raw/8f4561c56ba481e5f2e626d854dfc2e2e8a4128b/journey-template.md
 <!--
 **bachittle/bachittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
